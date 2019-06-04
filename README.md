@@ -3,7 +3,7 @@
 
 <ul>
     <li>Game component</li>
-    <li>Dice Component</li>
+    <li>Dice component</li>
     <li>Die component</li>
     <li>Score Table component</li>
     <li>Rule row component</li>
