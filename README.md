@@ -10,3 +10,5 @@
 </ul>
 <p>The game is fully functional but can have better css styling.</p>
 <img src="./yahtzee.png">
+
+<p>To run from terminal: cd into react-yahtzee folder and install all dependencies using: $npm install then run: $npm start</p>
